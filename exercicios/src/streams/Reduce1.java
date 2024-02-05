@@ -3,6 +3,7 @@ package streams;
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.BinaryOperator;
+import java.util.function.Predicate;
 
 public class Reduce1 {
 	public static void main(String[] args) {
